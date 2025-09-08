@@ -1,1 +1,3 @@
 # To-Do List
+Review Python basics
+Start Python exercises
